@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  Symon Karim
 </h1>
 
-<p align=center><a href="mailto:symon.karim01@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width=40></a>
+<p align=center><a href="symon.karim01@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width=40></a>
 <a href="https://www.facebook.com/symonkarim1/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" width=40></a> 
 <a href="https://www.instagram.com/symon_karim/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" width=40></a> 
 <a href="https://www.linkedin.com/in/symon-karim/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" width=40></a></p>
